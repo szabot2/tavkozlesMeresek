@@ -1,6 +1,7 @@
 ---
 
-## DVB-T MÉRÉSI JEGYZŐKÖNYV
+# MÉRÉSI JEGYZŐKÖNYV
+
 
 **Mérések helyei**: V3_Labor, kis udvar, 2. emelet folyosó.  
 **Mérés időpontja**: 2024.10.07    
