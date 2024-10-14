@@ -2,7 +2,6 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-
 **Mérések helyei**: V3_Labor, kis udvar, 2. emelet folyosó.  
 **Mérés időpontja**: 2024.10.07    
 **Mérő műszerek**: SMART HD 550 antenna, ISKRA P20 LOGPER antenna, IKUSI FLASHD C48 antenna, RF kábel, METEK HD spektrum
