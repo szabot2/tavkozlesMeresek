@@ -38,28 +38,28 @@ Megismerni a Johansson 8202 DVB-T modulátor működését, konfigurációs lehe
 
 ## Mért értékek különböző modulációkon és frekvenciákon
 
-X frekvencia
+706 MHz
 | Mérési paraméter   | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
 |--------------------|---------------------|------------------|--------------------|----------------|--------------------|
-| Mérési eredmény 1   |                     |                  |                    |                |                    |
-| Mérési eredmény 2   |                     |                  |                    |                |                    |
-| Mérési eredmény 3   |                     |                  |                    |                |                    |
+| Mérési eredmény 1   |    QPSK                |  8                |       -62.6   |      4.2          |       22.3      |
+| Mérési eredmény 2   |       16-QAM              |         8      |     -65       |     9             |          21         |
+| Mérési eredmény 3   |       64-QAM              |         8      |     -77         |      14.5          |       20.8           |
 ---
 
-X frekvencia
+746 MHz
 | Mérési paraméter   | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
 |--------------------|---------------------|------------------|--------------------|----------------|--------------------|
-| Mérési eredmény 1   |                     |                  |                    |                |                    |
-| Mérési eredmény 2   |                     |                  |                    |                |                    |
-| Mérési eredmény 3   |                     |                  |                    |                |                    |
+| Mérési eredmény 1   |          QPSK           |         8      |        -59.5      |       4.2         |        28.5   |
+| Mérési eredmény 2   |           16-QAM          |        8       |    -65.1    |      9          |          26          |
+| Mérési eredmény 3   |              64-QAM       |         8      |      -64.5  |     14.2           |        23.7       |
 ---
 
-X frekvencia
+858 MHz
 | Mérési paraméter   | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
 |--------------------|---------------------|------------------|--------------------|----------------|--------------------|
-| Mérési eredmény 1   |                     |                  |                    |                |                    |
-| Mérési eredmény 2   |                     |                  |                    |                |                    |
-| Mérési eredmény 3   |                     |                  |                    |                |                    |
+| Mérési eredmény 1   |             QPSK        |      8        |          -61       |    3.9         |            27.5   |
+| Mérési eredmény 2   |            16-QAM         |        8          |      -61.2              |        8.6        |             27.8       |
+| Mérési eredmény 3   |            64-QAM         |    8              |        -59.5            |         13.8       |      28.4              |
 ---
 
 ## Grafikus ábrázolás
