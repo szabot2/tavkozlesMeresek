@@ -1,11 +1,11 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:**  
-**A mérés tárgya:** 
-**A mérés száma:**  
-**A mérés dátuma:**   
-**A mérést vezette:** Szabó Tamás, Illés Balázs  
+**A mérést végző neve:** Szabó Tamás <br>
+**A mérés tárgya:** Frekvencia vs. moduláció mérés <br>
+**A mérés száma:**  - <br>
+**A mérés dátuma:**  2024.11.13 <br>
+**A mérést vezette:** Szabó Tamás, Illés Balázs  <br>
 
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 2  
