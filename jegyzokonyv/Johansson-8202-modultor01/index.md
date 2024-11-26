@@ -66,7 +66,7 @@ A különböző digitális modulációs technikák előnyeinek és hátrányaina
 ---
 
 ## Grafikus ábrázolás
-A jelszint és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:
+<h1>A jelszint, a bitsebesség és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:</h1>
 
 ![Untitled design](https://github.com/user-attachments/assets/b6558a81-d0a6-4c4a-9b2c-e1edccaef476)
 ![Untitled design(1)](https://github.com/user-attachments/assets/f12852e6-e81e-4a7b-8cbc-b9b858e9c1a6)
