@@ -98,7 +98,7 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 ## Konklúzió
 
 A legjobb vétel érdekében célszerű a 64QAM-et használni a 3 modulációs technika közül, hiszen ez nyújtja a legjobb bitsebességet.
-Az eredmény várható volt, ez a leg fejlettebb technika a 3 közül.
+Az eredmény várható volt, ez a legfejlettebb technika a 3 közül.
 
 ## Mérési nehézségek és eltérések
 A mérést kifejezetten nehéz volt pontosan végezni, mert Sándor Péter tanárúr rutinszerűen árnyékolta az adó antennából érkező jelet.
@@ -110,86 +110,8 @@ A jobb körülmények biztosítása és a zavaró tényezők minimalizására va
 
 ---
 
-## P-20 Képek:
-<details>
-<summary>Kattins a részletekért</summary>
-
-**474Mhz Mért Képek:**
-    <img src=...>
-    <img src=...>
-
----
-
-**570MHz Mért Képek**
-    <img src=...>
-    <img src=...>
-
----
-
-**706MHz Mért Képek**
-    <img src=...>
-    <img src=...>
-
----
-
-</details>
-
 <br>
 
-## 11. P-2845 Képek:
-<details>
+**Aláírás:** Szabó Tamás Tibor
 
-<summary>Kattins a részletekért</summary>
-
-**474Mhz Mért Képek:**
-    <img ...>
-    <img ...>
-
----
-
-**570MHz Mért Képek**
-    <img ...>
-    <img ...>
-
----
-
-**706MHz Mért Képek**
-    <img ...>
-    <img ...>
-
----
-
-</details>
-
-<br>
-
-## 12. FlashHD C-48 Képek:
-<details>
-<summary>Kattins a részletekért</summary>
-
-**474Mhz Mért Képek:**
-    <img ...>
-    <img ...>
-
----
-
-**570MHz Mért Képek**
-    <img ...>
-    <img ...>
-
----
-
-**706MHz Mért Képek**
-    <img ...>
-    <img ...>
-
----
-
-</details>
-
-
-<br>
-
-**Aláírás:** ...
-
-**Dátum:** ...
+**Dátum:** 2024.11.13
