@@ -66,23 +66,22 @@ A különböző digitális modulációs technikák előnyeinek és hátrányaina
 ---
 
 ## Grafikus ábrázolás
-<h1>A jelszint, a bitsebesség és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:</h1>
+<p>A jelszint, a bitsebesség és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:</p>
 
-![Untitled design](https://github.com/user-attachments/assets/b6558a81-d0a6-4c4a-9b2c-e1edccaef476)
-![Untitled design(1)](https://github.com/user-attachments/assets/f12852e6-e81e-4a7b-8cbc-b9b858e9c1a6)
-![Untitled design(2)](https://github.com/user-attachments/assets/dee9565b-4223-4e30-91b4-885a3e583f46)
+<h2>Jelszint (dBm)</h2>
+<img src="https://github.com/user-attachments/assets/b6558a81-d0a6-4c4a-9b2c-e1edccaef476" width="700px">
+<img src="https://github.com/user-attachments/assets/f12852e6-e81e-4a7b-8cbc-b9b858e9c1a6" width="700px">
+<img src="https://github.com/user-attachments/assets/dee9565b-4223-4e30-91b4-885a3e583f46" width="700px">
 
----
+<h2>Bitsebesség (Mbps)</h2>
+<img src="https://github.com/user-attachments/assets/b552ff22-23cd-4d89-aa8a-2c7ce923496f" width="700px">
+<img src="https://github.com/user-attachments/assets/cadc32da-b62b-46c9-9bb9-8328b682345e" width="700px">
+<img src="https://github.com/user-attachments/assets/04470976-7971-4ee7-85ea-f361f199d8ce" width="700px">
 
-![Untitled design](https://github.com/user-attachments/assets/b552ff22-23cd-4d89-aa8a-2c7ce923496f)
-![Untitled design(1)](https://github.com/user-attachments/assets/cadc32da-b62b-46c9-9bb9-8328b682345e)
-![Untitled design(2)](https://github.com/user-attachments/assets/04470976-7971-4ee7-85ea-f361f199d8ce)
-
----
-
-![Untitled design](https://github.com/user-attachments/assets/780e7813-34ac-41f7-969e-982720bf70f2)
-![Untitled design(1)](https://github.com/user-attachments/assets/a682bd04-26c7-425a-be6c-adcfea638829)
-![Untitled design(2)](https://github.com/user-attachments/assets/b14fe539-2af9-4040-b322-c3d34e254388)
+<h2>MER érték (dB)</h2>
+<img src="https://github.com/user-attachments/assets/780e7813-34ac-41f7-969e-982720bf70f2" width="700px">
+<img src="https://github.com/user-attachments/assets/a682bd04-26c7-425a-be6c-adcfea638829" width="700px">
+<img src="https://github.com/user-attachments/assets/b14fe539-2af9-4040-b322-c3d34e254388" width="700px">
 
 ---
 
@@ -92,6 +91,7 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 - A jel erőssége modulációtól függetlenül hasonló, de itt a PSK modulációnál a legjobb.
 - A 64QAM-nek van kiemelkedően a legjobb bitsebessége frekvenciától függetlenül.
 - A modulációs hibaarány általánosan a PSK-nál a legrosszabb.
+- Minél magasabb a frekvencia annál kisebb a bitsebesség, de kis mértékben. Akár lehet mérési eltérés is.
   
 ---
 
