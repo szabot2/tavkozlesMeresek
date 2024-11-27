@@ -1,10 +1,10 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** György Péter
+**A mérést végző neve:** Szabó Tamás
 **A mérés tárgya:** T ellenállás hálózat
 **A mérés száma:**  01
-**A mérés dátuma:**  2024.11.13 
+**A mérés dátuma:**  2024.11.27 
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
@@ -14,7 +14,7 @@
 ---
 
 ## 1. Mérés célja
-A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállásértékek alapján.
+A T ellenállás-hálózat jellemzőinek meghatározása 6dB-es csillapításnál.
 
 ---
 
@@ -22,14 +22,13 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 - **NI myDAQ** 
 - **Ellenállások:**
   - **számolás alapján:**
-    - Rg/out = 680
-    - R1/2 = 220 Ω
-    - R3 = 900 Ω
+    - Rg = 1100 Ω
+    - R1 = 367 Ω
+    - R2 = 1.473 kΩ
   - **méréskor használt:**
-    - Rg = 681 Ω
-    - R1/2 = 219,219 Ω
-    - R3 = 220+676 Ω
-    - Rout = 681 Ω
+    - Rg = 2,2 Ω X 2,2 Ω
+    - R1 = 220 Ω + 120 Ω
+    - R2 = 1.5 kΩ
 ---
 
 ## 3. Elmélet
@@ -41,46 +40,47 @@ Az elektronikában a csillapítókat a jel szintjének csökkentésére használ
 <p>Generátor impedancia: 1100 Ω</p>
 <p>Csillapítá mértéke: 6 dB</p>
 
+<h3>Az ellenállások értékének képlete:</h3>
+
+![kép](https://github.com/user-attachments/assets/6f1eb4c4-6b68-451b-8bc6-b52f0b87d846)
+
+<h3>Behelyettesítve:</h3>
+
 ![kép](https://github.com/user-attachments/assets/08469239-b31b-4f84-a100-24f94ad70c49)
 
 ---
 
 ## 4. Szimuláció
-A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékonyan csökkenti a rezgés amplitúdóját. A harmonikus torzítás elemzésével megérthetjük, hogy a csillapító mennyire hatékonyan csökkenti a nem kívánt rezgéseket. Ezek az eredmények segítenek optimalizálni a csillapító rendszer paramétereit a kívánt teljesítmény elérése érdekében.
+A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékonyan csökkenti a rezgés amplitúdóját.
 
-<a target="blank" href="https://tinyurl.com/22ny6jqv">
+<a target="blank" href="https://tinyurl.com/27rgeq6c">
 
-![Névtelen](https://github.com/user-attachments/assets/8dd42477-399b-4fb4-94ae-130e0d5baa37)
-
+![Névtelen](https://github.com/user-attachments/assets/da1cbba4-0042-4df3-a802-c5ea1a689f10)
 
 </a>
 
 ## 5. Gyakorlatban/Számítások
 
-- ***Breadboardon összerakva***
-  
+<h3>Mérési eredmények:</h3>
+
+| Paraméter           | Érték |
+|---------------------|-------|
+| Generátor jel       | 2.002 Vp2p |
+| Kimeneti Jel        | 1.062 Vp2p |
+| Generátor Frekvencia| 1000 Hz |
+| Csillapítás         | -5.507 dB |
+| Átviteli Arány      | 5.507 dB |
+| Bemeneti impedancia | 2.17 kΩ |
+| Kimeneti impedancia | 687 Ω |   
+
+- ***Breadboardon összerakva:***
+  A jelgenerátoron 1000Hz-s 2Vpp váltakozó feszültséget állítottunk be.
   CH0 a bemeneti feszülstég CH1 pedig a kimeneti fesz. Szépen látszódik hogy a CH1 feszültsége nagyyábol a fele a CH0-nak.
-  A jelgenerátoron 100Hz-s 5V váltakozó feszültséget állítottunk be.
-<details>
-  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/IMG_20241120_131014.jpg">
 
-  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20131409.png">
+![Képernyőkép 2024-11-27 131730](https://github.com/user-attachments/assets/019d4817-a12e-40f1-b3f7-9943edb8771d)
 
-  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20131428.png">
-</details>
+![IMG_3206](https://github.com/user-attachments/assets/1eca01f4-fcb8-407b-a809-c1fc802ca057)
 
-- ***Ellenállások számítása***
-<details>
-  
-  **R1/2**
-  
-  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/IMG_20241120_123158.jpg">
-  
-  **R3**
-  
-  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20123956.png">
-</details>
+**Aláírás:** Szabó Tamás Tibor
 
-**Aláírás:** ...
-
-**Dátum:** ...
+**Dátum:** 2024.11.27
