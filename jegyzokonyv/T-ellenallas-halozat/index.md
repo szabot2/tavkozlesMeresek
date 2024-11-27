@@ -38,20 +38,20 @@ A T pad egy speciális csillapító áramkör az elektronikában, ahol az áramk
 Az elektronikában a csillapítókat a jel szintjének csökkentésére használják. Párnáknak is nevezik őket, mivel az akusztikával analóg módon lepárolják a jelet. A csillapítók lapos frekvenciamenettel rendelkeznek , amely minden frekvenciát egyformán csillapít abban a sávban, amelyen működni kívánnak. A csillapítónak az erősítővel ellentétes feladata van . A csillapító áramkör topológiája általában az egyszerű szűrőszakaszok egyikét követi . A szükséges frekvenciaválasz egyszerűsége miatt azonban nincs szükség bonyolultabb áramkörre, mint a szűrők esetében.
 
 <h3>Az ellenálls értékek számítása:</h3>
-<p>Generátor impedancia: 1100Ω</p>
-<p>Csillapítá mértéke: 6dB</p>
+<p>Generátor impedancia: 1100 Ω</p>
+<p>Csillapítá mértéke: 6 dB</p>
 
-![kép](https://github.com/user-attachments/assets/ce00dda0-b704-4000-9868-00277313edad)
-
+![kép](https://github.com/user-attachments/assets/08469239-b31b-4f84-a100-24f94ad70c49)
 
 ---
 
 ## 4. Szimuláció
 A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékonyan csökkenti a rezgés amplitúdóját. A harmonikus torzítás elemzésével megérthetjük, hogy a csillapító mennyire hatékonyan csökkenti a nem kívánt rezgéseket. Ezek az eredmények segítenek optimalizálni a csillapító rendszer paramétereit a kívánt teljesítmény elérése érdekében.
 
-<a target="blank" href="https://tinyurl.com/2a3jn38a">
-  
-![Névtelen](https://github.com/user-attachments/assets/20de3754-3913-4fa1-a7f6-ae39ff891ea8)
+<a target="blank" href="https://tinyurl.com/22ny6jqv">
+
+![Névtelen](https://github.com/user-attachments/assets/8dd42477-399b-4fb4-94ae-130e0d5baa37)
+
 
 </a>
 
