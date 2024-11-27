@@ -53,7 +53,7 @@ Az elektronikában a csillapítókat a jel szintjének csökkentésére használ
 ## 4. Szimuláció
 A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékonyan csökkenti a rezgés amplitúdóját.
 
-<a target="blank" href="https://tinyurl.com/27rgeq6c">
+<a target="_blank" href="https://tinyurl.com/27rgeq6c">
 
 ![Névtelen](https://github.com/user-attachments/assets/da1cbba4-0042-4df3-a802-c5ea1a689f10)
 
