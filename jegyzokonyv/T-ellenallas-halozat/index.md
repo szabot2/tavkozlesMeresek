@@ -75,7 +75,7 @@ A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékony
 
 - ***Breadboardon összerakva:***
   A jelgenerátoron 1000Hz-s 2Vpp váltakozó feszültséget állítottunk be.
-  CH0 a bemeneti feszülstég CH1 pedig a kimeneti fesz. Szépen látszódik hogy a CH1 feszültsége nagyyábol a fele a CH0-nak.
+  CH0 a bemeneti feszülstég CH1 pedig a kimeneti fesz. Szépen látszódik hogy a CH1 feszültsége nagyjábol a fele a CH0-nak.
 
 ![Képernyőkép 2024-11-27 131730](https://github.com/user-attachments/assets/019d4817-a12e-40f1-b3f7-9943edb8771d)
 
