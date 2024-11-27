@@ -59,7 +59,7 @@ A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékony
 
 </a>
 
-## 5. Gyakorlatban/Számítások
+## 5. Mérés
 
 <h3>Mérési eredmények:</h3>
 
