@@ -1,11 +1,11 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** Szabó Tamás
-**A mérés tárgya:** T ellenállás hálózat
-**A mérés száma:**  01
-**A mérés dátuma:**  2024.11.27 
-**A mérést vezette:** Sándor Péter  
+**A mérést végző neve:** Szabó Tamás <br>
+**A mérés tárgya:** T ellenállás hálózat <br>
+**A mérés száma:**  01 <br>
+**A mérés dátuma:**  2024.11.27 <br>
+**A mérést vezette:** Sándor Péter <br>
 
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 2  
