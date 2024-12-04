@@ -1,6 +1,6 @@
 
 
-# Bitsebesség vs. jelminőség mérési feladat
+# Bitsebesség vs. jelminőség mérési jegyzőkönyv
 
 **A mérést végző neve:**  Szabó Tamás <br>
 **A mérés tárgya:** Johansson 8202 DVB-T modulátor többcsatornás képességeit, illetve a bitsebesség és jelminőség kapcsolatát vizsgálja. <br>
