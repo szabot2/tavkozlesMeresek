@@ -36,11 +36,11 @@ A Johansson 8202 DVB-T modulátor bitsebesség beállításának és a mért hib
 
 ## 4. Mért értékek 
 
-| Mérési paraméter   | RF frekvencia (MHz) | Program neve | Bitsebesség (Mbps) | Jelszint (dBm) | MER érték (dB) |
-|-----------------------|------------------|--------------|--------------------|----------------|----------------|
-| **Mérési eredmény 1** | 674              | TV1          | 15                 | -30             | 34.6           |
-| **Mérési eredmény 2** | 682              | TV2          | 10                 | -30             | 35.4           |
-| **Mérési eredmény 3** | 682              | TV2          | 21.5 (max)         | -29.8            | 34.9           |
+| RF frekvencia (MHz) | Program neve | Bitsebesség (Mbps) | Jelszint (dBm) | MER érték (dB) |
+|------------------|--------------|--------------------|----------------|----------------|
+| 674              | TV1          | 15                 | -30             | 34.6           |
+| 682              | TV2          | 10                 | -30             | 35.4           |
+| 682              | TV2          | 21.5 (max)         | -29.8            | 34.9           |
 
 
 ---
