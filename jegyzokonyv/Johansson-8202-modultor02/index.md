@@ -69,7 +69,7 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 
 
 ## 9. Javaslatok
-- Valami változót kellene belevinni a mérésbe ami eltérést okoz a különböző mérések között.
+- Valami változót lehetne belevinni a mérésbe, ami eltérést okoz a különböző mérési pontok között.
 
 <br>
 
