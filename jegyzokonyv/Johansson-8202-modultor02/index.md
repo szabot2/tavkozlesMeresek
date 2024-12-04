@@ -46,7 +46,6 @@ A Johansson 8202 DVB-T modulátor bitsebesség beállításának és a mért hib
 ---
 
 ## 5. Grafikus ábrázolás
-A grafon a sugárzott és a mért jelszint öszzehasonlítását mutatja meg.
 
 <img width="300" src="https://github.com/user-attachments/assets/7c1a5202-3036-45a0-9364-a33580333046">
 <img width="300" src="https://github.com/user-attachments/assets/eca68f67-f7c3-4b55-894a-6521194127d7">
