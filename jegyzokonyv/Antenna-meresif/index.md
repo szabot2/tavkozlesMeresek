@@ -1,11 +1,11 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:**  Szabó Tamás
-**A mérés tárgya:** Antenna összehasonlítás feladat
-**A mérés száma:**  3
-**A mérés dátuma:** 2024.12.11
-**A mérést vezette:** Sándor Péter  
+**A mérést végző neve:**  Szabó Tamás  
+**A mérés tárgya:** Antenna összehasonlítás feladat  
+**A mérés száma:**  3  
+**A mérés dátuma:** 2024.12.11  
+**A mérést vezette:** Sándor Péter    
 
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 2  
