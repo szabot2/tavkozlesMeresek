@@ -39,7 +39,7 @@ A mérések során megvvizsgálni a SMART HD 550, ISKRA P20 LOGPER és IKUSI FLA
 
 ## 4. Mérési eredmények
 
-| Antenna típusa      | Vételi pont 1 - Jelszint (dBm) | Vételi pont 2 - Jelszint (dBm) | Vételi pont 3 - Jelszint (dBm) |
+| Antenna típusa      | Udvar - Jelszint (dBm) | 3. Emelet - Jelszint (dBm) | V3 Labor - Jelszint (dBm) |
 |---------------------|--------------------------------|-------------------------------|-------------------------------|
 |  ISKRA P2845 LOGPER  |   -52.9 dBm                       | -48.6 dBm                       | -60.4 dBm                 |
 | IKUSI FLASHD C48 |     -58.2 dBm                       | -48 dBm                       | -61.3 dBm                   |
