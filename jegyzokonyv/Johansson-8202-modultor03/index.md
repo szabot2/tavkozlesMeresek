@@ -3,9 +3,9 @@
 # Bitsebesség vs. jelminőség mérési jegyzőkönyv
 
 **A mérést végző neve:**  Szabó Tamás <br>
-**A mérés tárgya:** Johansson 8202 DVB-T modulátor többcsatornás képességeit, illetve a bitsebesség és jelminőség kapcsolatát vizsgálja. <br>
-**A mérés száma:** 5 <br>
-**A mérés dátuma:** 2024.12.04  <br>
+**A mérés tárgya:** A különböző típusú antennák teljesítménye és a vételi jelminőség összehasonlítása. <br>
+**A mérés száma:** 6 <br>
+**A mérés dátuma:** 2024.12.18  <br>
 **A mérést vezette:** Sándor Péter   
 
 **Évfolyam:** 13. E  
@@ -30,56 +30,59 @@ A Johansson 8202 DVB-T modulátor bitsebesség beállításának és a mért hib
 ---
 
 ### 3. **Mérési helyszín és környezet**
-- **Környezet jellemzői**: 5 °C Szemerkélő eső
+- **Környezet jellemzői**: 6 °C Foltokban felhős
 
 ---
 
 ## 4. Mért értékek 
 
-X- MHz
+474 MHz
 
-| Antenna típusa       | RF frekvencia (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
-|----------------------|---------------------|----------------|--------------------|----------------|
-| **ISKRA P20 LOGPER** | 522                 |                |                    |                |
-| **ISKRA P2845**      | 522                 |                |                    |                |
-| **IKUSI FLASHD C48** | 522                 |                |                    |                |
+| Antenna típusa       | Jelszint (dBm)      | Bitsebesség (Mbps) | MER érték (dB) |
+|----------------------|---------------------|----------------|--------------------|
+| **ISKRA P20 LOGPER** | -55.8                |        8.6     |   22.2             |
+| **ISKRA P2845**      | -53.8                |         9      |   20.5             |
+| **IKUSI FLASHD C48** | -51.7                |        12.1    |     25.3           |
 
-X- MHz
+610 MHz
 
-| **ISKRA P20 LOGPER** | 610                 |                |                    |                |
-| **ISKRA P2845**      | 610                 |                |                    |                |
-| **IKUSI FLASHD C48** | 610                 |                |                    |                |
+| Antenna típusa       | Jelszint (dBm)    | Bitsebesség (Mbps) | MER érték (dB)  |
+|----------------------|---------------------|----------------|--------------------|
+| **ISKRA P20 LOGPER** | -57.2              |          10.6    |      12.9         |
+| **ISKRA P2845**      | -44.7              |          12.2    | 32.2              |
+| **IKUSI FLASHD C48** | -45.1              |          12.6    | 31.9              |
 
 
 ---
 
 ## 5. Grafikus ábrázolás
 
-<img width="300" src="https://github.com/user-attachments/assets/7c1a5202-3036-45a0-9364-a33580333046">
-<img width="300" src="https://github.com/user-attachments/assets/eca68f67-f7c3-4b55-894a-6521194127d7">
-<img width="300" src="https://github.com/user-attachments/assets/db72a87d-9441-4773-9f40-5a7f0aee799b">
+  <img width="500" src="https://github.com/user-attachments/assets/82274ef6-2977-452f-a93f-fcfe5a528bfc">
+  <img width="500" src="https://github.com/user-attachments/assets/96c49007-9d07-42d4-bf0f-d6ad589b6341">
+
+
 
 ## 6. Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 
-- A beállított bitsebesség hiába változik, nem észlelhető különösebb változás a mért MER értékben.
+- Az IKUSI FLASHD C48 antennával vettem a legjobb jelet. Ez várható volt, hiszen ez egy meglehetősen nagy nyereségű antenna.
+- Az ISKRA P20-nak volt a legrosszab a vétele, de érdekes módon ennek az antennának volt a legjobb a hibaaránya.
 ---
 
 ## 7. Konklúzió
 
-- A mérés szerint ha jobb hibaarányt szeretnénk, nincs értelme alacsonyabb bitsebességgel sugározni a DVB-T adást, mert az nem befolyásolja a hibaarányt.
+- A magas nyereségű IKUSI FLASHD C48 volt az egyértelmű bajnoka ennek a mérésnek.
 
 ## 8. Mérési nehézségek és eltérések
-- 1 Modulátorral kellet a mérést elvégeznem, mert csak 1db volt szabad.
-- A METEK HDD eszközre várnom kellett még felszabadul egy, mert mind használatban volt.
-- Figyelmetlen voltam és előkészítettem 2db antennát, pedig a mérés nem követelt antennát.
+- Fárasztó volt többször levenni és feltenni a különböző antennákat.
+- Az antennák felállítása és folyamatos csréje nehéz volt a kevés hely miatt.
 
 
 ## 9. Javaslatok
-- Valami változót lehetne belevinni a mérésbe, ami eltérést okoz a különböző mérési pontok között.
+- nincs.
 
 <br>
 
 **Aláírás:** Szabó Tamás
 
-**Dátum:** 2024.12.04
+**Dátum:** 2024.12.18
