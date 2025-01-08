@@ -48,7 +48,7 @@ Tranzisztor működésének vizsgálata a bemeneti feszültség változtatásáv
 
 ## 4. Mért vs Szimulált eredmények
 
-![kép](https://github.com/user-attachments/assets/5e0c4535-5b42-442f-ac60-3664032db094)
+![kép](https://github.com/user-attachments/assets/d08f0c48-2f10-4e94-84d6-e2686bead456)
 
 ---
 
