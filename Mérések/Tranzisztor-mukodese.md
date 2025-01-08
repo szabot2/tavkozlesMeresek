@@ -32,8 +32,7 @@ Tranzisztor működésének vizsgálata a bemeneti feszültség változtatásáv
 
 | Műszer neve          | Típus | Gyártási szám |
 | ---------------------| ------| ------------- |
-| National Instruments | myDAQ |  |
-| Metec                | M3800 |  |
+| National Instruments | myDAQ |  305E10B
 
 ---
 
@@ -48,7 +47,9 @@ Tranzisztor működésének vizsgálata a bemeneti feszültség változtatásáv
 
 ## 4. Mért vs Szimulált eredmények
 
-![kép](https://github.com/user-attachments/assets/44402cca-c0f3-4abe-ba6f-cb000818d3dc)
+
+![kép](https://github.com/user-attachments/assets/89ab9ede-3754-4394-abe0-e6cd331b1676)
+
 
 ---
 
@@ -61,10 +62,11 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 
 ---
 ## 6. Grafikus ábrázolás
+![kép]()
+![kép]()
 
 <div class="display: flex; width="100%";>
-  <img width="400" src="https://github.com/user-attachments/assets/13058652-e215-4463-a178-a84da0aee112">
-  <img width="400" src="https://github.com/user-attachments/assets/d9ac57fd-2010-4258-ac09-48676c55e1b5">
+  <img width="400" src="https://github.com/user-attachments/assets/1fc3c2da-a874-4e96-ad88-5f7e93144457">
+  <img width="400" src="https://github.com/user-attachments/assets/44690429-4533-4e77-ac99-dbe40bd0b875">
 </div>
-
 
