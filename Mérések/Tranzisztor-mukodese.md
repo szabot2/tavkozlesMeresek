@@ -62,8 +62,6 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 
 ---
 ## 6. Grafikus ábrázolás
-![kép]()
-![kép]()
 
 <div class="display: flex; width="100%";>
   <img width="400" src="https://github.com/user-attachments/assets/1fc3c2da-a874-4e96-ad88-5f7e93144457">
