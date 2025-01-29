@@ -38,8 +38,7 @@ A gyakorlat célja, hogy a diákok elsajátítsák a Mikrotik antennák beállí
 
 ## 4. Hálózati Topológia
 
-<img src="https://github.com/user-attachments/assets/3872854b-77a6-4c32-8147-ee5c8d4c84d2" width="500">
-
+<img src="https://github.com/user-attachments/assets/3c57a0e8-68da-4e3c-8b93-9739f331e392" width="500">
 
 ## 5. Mérési eredmények 
 
