@@ -39,7 +39,7 @@ Amplitúdómoduláció vizsgálata a GRF-1300A trénerrel.
 
 ## 3. Trainer beállítások
 
-Beállítottam 880MHz-es és egy 900MHz vivő jelet.
+Beállítottam 880MHz-es és egy 900MHz vivő jelet. <br>
 Beállítottam 100kHz illetve 500kHz-es moduláló jeleket. 
 
 ---
