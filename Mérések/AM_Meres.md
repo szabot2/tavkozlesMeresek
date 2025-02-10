@@ -31,7 +31,7 @@ Amplitúdómoduláció vizsgálata a GRF-1300A trénerrel.
 | Oscilloscope          | ROHDE & SCHWARZ HMO 1002 | - |
 | Spektrum analizátor   | GSP-730 |       GEX120304   |
 
-### Fizikai összeköttetés
+#### Fizikai összeköttetés
 
 <img src="https://github.com/user-attachments/assets/b02d5518-548c-4599-9120-b13607e12933" width="600">
 
@@ -46,11 +46,11 @@ Beállítottam 100kHz illetve 500kHz-es moduláló jeleket.
 
 ## 4. Mért eredmények:
 
-100kHz-es moduláló jel: <br>
+### 100kHz-es moduláló jel: <br>
 
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA04.PNG" width="500">
 
-100%-os modulációs mélység: <br>
+### 100%-os modulációs mélység: <br>
 
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR01.BMP" width="500">
 
@@ -59,11 +59,11 @@ Beállítottam 100kHz illetve 500kHz-es moduláló jeleket.
 - A modulációs mélység 100%-nál 6dB-es különbséget mutat a sideband-ekhez képest..
 - Itt 1,18Vpp volt a moduláló jel.
 
-500kHz-es moduláló jel: <br>
+### 500kHz-es moduláló jel: <br>
 
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA03.PNG" width="500">
 
-63%-os modulációs mélység: <br>
+### 63%-os modulációs mélység: <br>
 
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR02.BMP" width="500">
 
