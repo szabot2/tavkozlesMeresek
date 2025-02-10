@@ -21,10 +21,6 @@
 
 Amplitúdómoduláció vizsgálata a GRF-1300A trénerrel.
 
-### Fizikai összeköttetés
-
-<img src="https://github.com/user-attachments/assets/b02d5518-548c-4599-9120-b13607e12933" width="600">
-
 ---
 
 ## 2. Alkalmazott mérőeszközök és készülékek
@@ -35,7 +31,9 @@ Amplitúdómoduláció vizsgálata a GRF-1300A trénerrel.
 | Oscilloscope          | ROHDE & SCHWARZ HMO 1002 | - |
 | Spektrum analizátor   | GSP-730 |       GEX120304   |
 
+### Fizikai összeköttetés
 
+<img src="https://github.com/user-attachments/assets/b02d5518-548c-4599-9120-b13607e12933" width="600">
 
 ---
 
@@ -56,6 +54,10 @@ Beállítottam 100kHz illetve 500kHz-es moduláló jeleket.
 
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR01.BMP" width="500">
 
+- A sávszélesség 30kHz.
+- A vivő jel erőssége -31dB.
+- A modulációs mélység 100%-nál 6dB-es különbséget mutat a sideband-ekhez képest..
+- Itt 1,18Vpp volt a moduláló jel.
 
 500kHz-es moduláló jel: <br>
 
@@ -65,14 +67,15 @@ Beállítottam 100kHz illetve 500kHz-es moduláló jeleket.
 
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR02.BMP" width="500">
 
+- A sávszélesség 30kHz.
+- A vivő jel erőssége -32dB.
+- A modulációs mélység 63%-nál 10dB-es különbséget mutat a sideband-ekhez képest.
+- Itt 1,26Vpp volt a moduláló jel.
+  
 ---
 
 ## 5. Mérési eredmények elemzése
 
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 
-- A sávszélesség 30kHz.
-- A modulációs mélység 100%-nál 6dB-es különbséget mutat a sideband-ekhez képest..
-- Itt 1,18Vpp volt a moduláló jel.
-- A modulációs mélység 63%-nál 10dB-es különbséget mutat a sideband-ekhez képest.
-- Itt 1,26Vpp volt a moduláló jel.
+- Megy az amplitúdó modulált jel nagyon jó.
