@@ -41,14 +41,29 @@ Amplitúdómoduláció vizsgálata a GRF-1300A trénerrel.
 
 ## 3. Trainer beállítások
 
-Beállítottam 880MHz-es vivő jelet.
-Beállítottam 100kHz illetve 200kHz-es moduláló jeleket. 
+Beállítottam 880MHz-es és egy 900MHz vivő jelet.
+Beállítottam 100kHz illetve 500kHz-es moduláló jeleket. 
 
 ---
 
 ## 4. Mért eredmények:
 
+100kHz-es moduláló jel: <br>
 
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA04.PNG" width="500">
+
+100%-os modulációs mélység: <br>
+
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR01.BMP" width="500">
+
+
+500kHz-es moduláló jel: <br>
+
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA03.PNG" width="500">
+
+63%-os modulációs mélység: <br>
+
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR02.BMP" width="500">
 
 ---
 
@@ -56,14 +71,8 @@ Beállítottam 100kHz illetve 200kHz-es moduláló jeleket.
 
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 
-- 1V bemeneti feszültség felett minimális változások vehetők észre az Rc ellenálláson eső feszültségben.
-- A mért és a szimulált áramkör között eltérések mérhetőek.
-
----
-## 6. Grafikus ábrázolás
-
-<div class="display: flex; width="100%";>
-  <img width="400" src="https://github.com/user-attachments/assets/1fc3c2da-a874-4e96-ad88-5f7e93144457">
-  <img width="400" src="https://github.com/user-attachments/assets/44690429-4533-4e77-ac99-dbe40bd0b875">
-</div>
-
+- A sávszélesség 30kHz.
+- A modulációs mélység 100%-nál 6dB-es különbséget mutat a sideband-ekhez képest..
+- Itt 1,18Vpp volt a moduláló jel.
+- A modulációs mélység 63%-nál 10dB-es különbséget mutat a sideband-ekhez képest.
+- Itt 1,26Vpp volt a moduláló jel.
