@@ -13,3 +13,4 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 Egyéb:
 
 - [01 - Tranzisztor Működése](https://github.com/szabot2/tavkozlesMeresek/blob/main/M%C3%A9r%C3%A9sek/Tranzisztor-mukodese.md)
+- [04 - Amplitúdómoduláció vizsgálata](https://github.com/szabot2/tavkozlesMeresek/blob/main/M%C3%A9r%C3%A9sek/AM_Meres.md)
