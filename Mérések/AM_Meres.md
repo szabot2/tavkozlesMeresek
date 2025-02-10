@@ -31,23 +31,23 @@ Amplitúdómoduláció vizsgálata a GRF-1300A trénerrel.
 
 | Műszer neve          | Típus | Gyártási szám |
 | ---------------------| ------| ------------- |
-| GRF-1300A             | Trainer |  -
+| RF Trainer             | GRF-1300A  |  100033131701  |
+| Oscilloscope          | ROHDE & SCHWARZ HMO 1002 | - |
+| Spektrum analizátor   | GSP-730 |       GEX120304   |
+
+
 
 ---
 
-## 3. Alkatrész adatok
-  R1 = 220 $\Omega$
-  
-  R2 = 1.49k $\Omega$
-  
-  $\beta$ = 49
+## 3. Trainer beállítások
+
+Beállítottam 880MHz-es vivő jelet.
+Beállítottam 100kHz illetve 200kHz-es moduláló jeleket. 
 
 ---
 
-## 4. Mért vs Szimulált eredmények
+## 4. Mért eredmények:
 
-
-![kép](https://github.com/user-attachments/assets/89ab9ede-3754-4394-abe0-e6cd331b1676)
 
 
 ---
