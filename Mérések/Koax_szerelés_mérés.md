@@ -24,7 +24,7 @@ A szerelt koax kábel csillapításának megmérése.
 | Műszer neve          | Típus | Gyártási szám |
 | ---------------------| ------| ------------- |
 | Spektrum Analizátor  | METEK HDD  |  -       |
-| TV  modulátor cucc   | Johansson |         -       |
+| HDMI Modulator   | Johansson |         -       |
 | Koax kábel           | F-Csatlakozós |       -   |
 
 ### Készített koax kábel
