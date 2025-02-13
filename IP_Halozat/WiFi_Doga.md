@@ -194,7 +194,22 @@
 
 ---
 
-## 12. Telefon Wifi-kapcs.
+## 12. FQDN megjelenítése
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  
+![sccíyxíyx](https://github.com/user-attachments/assets/a359f30a-e1df-4077-823f-9514416361f2)
+
+  
+
+</details>
+
+---
+
+## 13. Telefon Wifi-kapcs.
 
 <details>
   <summary>Kép megtekintése</summary>
@@ -208,7 +223,7 @@
 
 ---
 
-## 13. Router konfig
+## 14. Router konfig
 
 <details>
   <summary>Kép megtekintése</summary>
@@ -258,7 +273,7 @@
 
 ---
 
-## 14. Ping
+## 15. Ping
 
 <details>
 
@@ -273,7 +288,7 @@
 
 ---
 
-## 15. SpeedTest
+## 16. SpeedTest
 
 <details>
 
@@ -287,7 +302,7 @@
 
 ---
 
-## 16. Wifi Analyzer
+## 17. Wifi Analyzer
 
 <details>
 
@@ -301,7 +316,7 @@
 
 ---
 
-## 17. Használt Eszközről Kép
+## 18. Használt Eszközről Kép
 
 <details>
 
