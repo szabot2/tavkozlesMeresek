@@ -77,4 +77,4 @@ A rezonancia fekvenciát 1500 Hz körül mértem, ami elég közel van a számol
 Ebből következtethető:
 <br>
 - Az RLC szűrők megfelelően működtek, sáváteresztő szűrőt alkottak.
-- A soros RLC élesebben vág, magasabb a Q faktora, tehát hatékonyabb.
+- A soros RLC élesebben vág, magasabb a Q faktora, és kisebb a sávszélessége, hatékonyabban vág.
