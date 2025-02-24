@@ -50,13 +50,21 @@ Párhuzamos és soros RLC vizsgálata.
 
 <img src="https://github.com/user-attachments/assets/f2acb306-cfe1-4483-b96e-02e823de1635" width="500">
 
+Számolt Q faktor: <br>
 ![kép](https://github.com/user-attachments/assets/80dcc1a5-64e1-4632-8620-7a2e74fdadfe)
+
+Mért sávszélesség: <br>
+![kép](https://github.com/user-attachments/assets/55b4fdb7-f176-48ac-a16a-d273babe362a)
 
 ### Soros RLC: <br>
 
 <img src="https://github.com/user-attachments/assets/de875b1f-0f17-4ddb-94c3-51889e5b7717" width="500">
 
+Számolt Q faktor: <br>
 ![kép](https://github.com/user-attachments/assets/75d56dc2-6c59-479f-b2e4-f8ba2162ca98)
+
+Mért sávszélesség: <br>
+![kép](https://github.com/user-attachments/assets/04f49125-e255-4867-9f1e-c0a194947ca1)
 
 ## 4. Mérési eredmények elemzése
 
