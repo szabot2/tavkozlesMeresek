@@ -25,22 +25,22 @@ Párhuzamos és soros RLC vizsgálata.
 
 ## 2. Alkalmazott mérőeszközök és alkatrészek
 
+
 | Műszer neve          | Típus | Gyártási szám |
 | ---------------------| ------| ------------- |
 | National Instruments | NI myDAQ  |  3045906  |
-
-#### Fizikai összeköttetés
-
-<img src="https://github.com/user-attachments/assets/485a1104-2e67-4793-b290-3d76b4616d90" width="600">
-<img src="https://github.com/user-attachments/assets/4bd4b4c5-809c-4bb8-a7d9-98bba01813cf" width="600">
-
-<br>
 
 | Alkatrész | Érték | Valós Érték |
 | -----------| ------| ---------  |
 | Ellenállás | 820 Ω  | --------- |
 | Tekercs    | 100 mH  | -------- |
 | Kondenzátor | 100 nF | ------- |
+
+
+#### Fizikai összeköttetés
+
+<img src="https://github.com/user-attachments/assets/485a1104-2e67-4793-b290-3d76b4616d90" width="600">
+<img src="https://github.com/user-attachments/assets/4bd4b4c5-809c-4bb8-a7d9-98bba01813cf" width="600">
 
 ---
 
@@ -60,5 +60,13 @@ Párhuzamos és soros RLC vizsgálata.
 
 ## 4. Mérési eredmények elemzése
 
-Az RLC szűrők megfelelően működtek, sáváteresztő szűrőt alkottak.
-A soros RLC élesebben vág, magasabb a Q faktora, tehát hatékonyabb.
+A rezonancia frekvencia kiszámolva:
+<br>
+![kép](https://github.com/user-attachments/assets/bc07beeb-5b9b-4e07-a3d4-0ada179fefcd)
+<br>
+A rezonancia fekvenciát 1500 Hz körül mértem, ami elég közel van a számolt értékhez.
+
+Ebből következtethető:
+<br>
+- Az RLC szűrők megfelelően működtek, sáváteresztő szűrőt alkottak.
+- A soros RLC élesebben vág, magasabb a Q faktora, tehát hatékonyabb.
