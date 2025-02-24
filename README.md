@@ -15,3 +15,4 @@ Egyéb:
 - [01 - Tranzisztor Működése](https://github.com/szabot2/tavkozlesMeresek/blob/main/M%C3%A9r%C3%A9sek/Tranzisztor-mukodese.md)
 - [04 - Amplitúdómoduláció vizsgálata](https://github.com/szabot2/tavkozlesMeresek/blob/main/M%C3%A9r%C3%A9sek/AM_Meres.md)
 - [05 - Koax kábel szerelés és mérés](https://github.com/szabot2/tavkozlesMeresek/blob/main/M%C3%A9r%C3%A9sek/Koax_szerel%C3%A9s_m%C3%A9r%C3%A9s.md)
+- [06 - RLC Szűrő](https://github.com/szabot2/tavkozlesMeresek/blob/main/M%C3%A9r%C3%A9sek/RLC_Szuro.md)
