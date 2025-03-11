@@ -33,7 +33,7 @@ Amplitúdómoduláció vizsgálata a GRF-1300A trénerrel.
 
 #### Fizikai összeköttetés
 
-<img src="https://github.com/user-attachments/assets/b02d5518-548c-4599-9120-b13607e12933" width="600">
+<img src="https://github.com/user-attachments/assets/9eacf56e-ded1-4f21-918b-ad1e4cb4d0f2" width="600">
 
 ---
 
